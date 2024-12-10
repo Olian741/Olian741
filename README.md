@@ -1,7 +1,5 @@
 # Hi there! ❤️ Welcome to my GitHub profile!
 
-![banner](#)
-
 ---
 
 ## 🌻 About Me
@@ -43,7 +41,6 @@ I'm Olian Mkhawana, a **front-end software developer** with a passion for creati
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)](https://olian-portfolio.netlify.app/)  
 
 ---
-
-![footer](#)
+Thanks for stopping by!❤️
 
 
